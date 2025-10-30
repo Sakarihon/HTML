@@ -1,0 +1,21 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    color:blue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: aqua;
+}
+img{
+    border: 3px dashed red;
+    border-radius: 8%;
+}
+.secondRow{
+    background-color: green;
+}
+ul{
+    list-style-type: none;
+}
